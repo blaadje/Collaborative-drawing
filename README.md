@@ -1,6 +1,6 @@
 # Collaborative-drawing
 
-Collaborative real-time drawing tool made by javascript.
+Collaborative real-time drawing tool made in javascript.
 
 http://alexanderC.design
 
