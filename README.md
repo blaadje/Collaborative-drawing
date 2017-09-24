@@ -4,4 +4,4 @@ Collaborative real-time drawing tool made by javascript.
 
 http://alexanderC.design
 
-![](https://github.com/blaadje/Collaborative-drawing/blob/master/presentation.jpg =250x)
+<img src="https://github.com/blaadje/Collaborative-drawing/blob/master/presentation.jpg" width="200" />
