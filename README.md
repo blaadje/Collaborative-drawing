@@ -2,7 +2,7 @@
 
 Collaborative real-time drawing tool made in javascript.
 
-http://www.alexanderC.design:8080
+http://alexanderC.design:8080
 
 <img src="https://github.com/blaadje/Collaborative-drawing/blob/master/presentation.jpg" width="600" />
 
