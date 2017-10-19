@@ -1,4 +1,4 @@
-## Collaborative-drawing
+### Collaborative-drawing
 
 Collaborative real-time drawing tool made in javascript.
 
